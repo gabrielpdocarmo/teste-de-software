@@ -1,0 +1,48 @@
+# Maven
+target/
+
+# VS Code
+.vscode/
+
+# IntelliJ
+.idea/
+*.iml
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Logs
+*.log
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Maven wrapper cache
+.mvn/wrapper/maven-wrapper.jar
+
+# Arquivos temporários
+tmp/
+temp/
+
+# Coverage / PIT
+pit-reports/
+jacoco.exec
+
+# Compilações
+out/
+build/
+
+# Arquivos de backup
+*.bak
+*.swp
+
+.github
